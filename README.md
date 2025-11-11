@@ -97,8 +97,8 @@ Once launched, you can browse, track, and monitor live cryptocurrency data insta
 
 **Promise Champion**  
 - 🌐 GitHub: [Promisead](https://github.com/Promisead)  
-- 💼 LinkedIn: [Promise Champion](#) *(add your LinkedIn link if available)*  
-- 🐦 Twitter: [@PromiseChampion](#) *(optional)*  
+- 💼 LinkedIn: [Promise Champion](#)  
+- 🐦 Twitter: [@PromiseChampion](#) 
 
 ---
 
