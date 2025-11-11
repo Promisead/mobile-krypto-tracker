@@ -15,7 +15,7 @@ The app connects to the **CoinGecko API** to deliver live and accurate data with
 - **⭐ Watchlist Management** – Add or remove favorite coins, stored securely and persistently on your device.  
 - **❤️ Favorites Dashboard** – Quickly access all your tracked coins in one dedicated screen.  
 - **⚙️ Smart Error Handling** – Custom toast alerts and error screens ensure smooth navigation during network or API interruptions.  
-- **🌙 Modern Dark UI** – Minimal, elegant interface with dark-mode styling for better visual comfort and readability.  
+- **🌙 Modern Dark UI** – Minimal, elegant interface  styling for better visual comfort and readability.  
 
 ---
 
