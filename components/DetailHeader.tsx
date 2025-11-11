@@ -59,9 +59,9 @@ export default function DetailHeader({ id }: { id: string }) {
         onPress={handleFavouritesPress}
       >
         <Ionicons
-          name={isFavourites ? "star" : "star-outline"}
+          name={isFavourites ? "heart" : "heart-outline"}
           size={30}
-          color={"#e7be2e"}
+          color={"#FF1744"}
         />
       </TouchableOpacity>
       <Text
@@ -87,6 +87,7 @@ export default function DetailHeader({ id }: { id: string }) {
         onPress={() => router.back()}
       >
         <Ionicons name="arrow-back-circle-sharp" size={30} color="#fff" />
+        
       </TouchableOpacity>
     </View>
   );

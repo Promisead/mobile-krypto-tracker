@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.lexiz.tech.cryptowallet"
+      "package": "com.promisead.kryptotracker"
     },
     "plugins": [
       "expo-router",
