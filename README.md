@@ -8,7 +8,7 @@ Powered by the **CoinGecko API**, the app delivers accurate, real-time data with
 
 ---
 
-## 🚀 **Key Features**
+##  **Key Features**
 
 - **📈 Live Crypto Market Data** – Explore real-time cryptocurrency prices ranked by market capitalization.  
 - **🔁 Infinite Scrolling** – Load additional market data effortlessly as you scroll.  
