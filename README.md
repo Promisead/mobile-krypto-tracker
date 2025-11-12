@@ -89,6 +89,8 @@ Once the app is running, you can start exploring live crypto updates, viewing ch
 |-----------|------|
 | **📦 APK Download** | [Download Latest Release](https://github.com/Promisead/mobile-krypto-tracker/releases) |
 | **🎥 Demo Video** | *Coming Soon!* |
+| **📱 Live App Preview (Appetize.io)** | [Launch Demo](https://appetize.io/app/b_tsmiibg2nspjwwt4it2t4bl6kq) |
+
 
 > Experience real-time crypto tracking, interactive price charts, and personalized favorites in action.  
 > You can sideload the APK on any Android device to explore the app firsthand.
