@@ -1,45 +1,47 @@
-# 💰 **Krypto Tracker by Promise Champion**
+# 💰 **Krypto Tracker**  
+### _A Real-Time Cryptocurrency Tracking App by Promise Champion_
 
-A beautifully crafted and fully responsive mobile app built with **React Native** and **Expo**, designed to help users stay up to date with real-time cryptocurrency prices, analyze market trends, and manage a personalized watchlist of favorite coins.  
+**Krypto Tracker** is a modern and responsive mobile application built with **React Native** and **Expo**.  
+It enables users to monitor live cryptocurrency prices, explore detailed market insights, and curate a personal watchlist of favorite coins — all with an elegant and performance-optimized interface.  
 
-The app connects to the **CoinGecko API** to deliver live and accurate data with a sleek user experience optimized for performance and usability.  
+Powered by the **CoinGecko API**, the app delivers accurate, real-time data with a seamless user experience built for speed, reliability, and usability.
 
 ---
 
-## 🚀 **Features**
+## 🚀 **Key Features**
 
-- **📈 Real-Time Market Data** – Browse live crypto prices ranked by market capitalization.  
-- **🔁 Infinite Scroll** – Effortlessly load additional coins as you scroll down.  
-- **⟳ Pull-to-Refresh** – Instantly update all displayed market data with a quick swipe down.  
-- **💹 Detailed Coin Insights** – View complete stats and interactive 30-day charts for any cryptocurrency.  
-- **⭐ Watchlist Management** – Add or remove favorite coins, stored securely and persistently on your device.  
-- **❤️ Favorites Dashboard** – Quickly access all your tracked coins in one dedicated screen.  
-- **⚙️ Smart Error Handling** – Custom toast alerts and error screens ensure smooth navigation during network or API interruptions.  
-- **🌙 Modern Dark UI** – Minimal, elegant interface  styling for better visual comfort and readability.  
+- **📈 Live Crypto Market Data** – Explore real-time cryptocurrency prices ranked by market capitalization.  
+- **🔁 Infinite Scrolling** – Load additional market data effortlessly as you scroll.  
+- **⟳ Pull-to-Refresh** – Instantly refresh market data with a simple swipe gesture.  
+- **💹 Coin Insights** – Access detailed stats and 30-day interactive price charts for any listed coin.  
+- **⭐ Custom Watchlist** – Add or remove your favorite cryptocurrencies, securely stored on your device.  
+- **❤️ Favorites Dashboard** – View all your tracked assets in a dedicated, easy-to-navigate screen.  
+- **⚙️ Robust Error Handling** – Custom alerts and fallback screens ensure smooth navigation, even during connectivity issues.  
+- **🌙 Sleek Dark Mode** – Enjoy a minimal, visually comfortable dark interface crafted for long viewing sessions.  
 
 ---
 
 ## 🧭 **Getting Started**
 
-Follow the steps below to run the project locally.
+Follow the guide below to set up and run the project locally.
 
-### ✅ **Prerequisites**
+### ✅ **Requirements**
 
-Before installation, ensure you have the following tools:
+Ensure the following tools are installed on your system:
 - **Node.js** (LTS version recommended)  
 - **pnpm** package manager  
-- **Expo Go** app (on your Android/iOS device or emulator)
+- **Expo Go** app (for Android/iOS device or emulator)  
 
 ---
 
-### ⚙️ **Installation Steps**
+### ⚙️ **Installation**
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Promisead/mobile-krypto-tracker.git
    ```
 
-2. **Navigate into the Project Folder**
+2. **Navigate to the Project Directory**
    ```bash
    cd mobile-krypto-tracker
    ```
@@ -51,64 +53,66 @@ Before installation, ensure you have the following tools:
 
 ---
 
-### ▶️ **Running the App**
+### ▶️ **Run the App**
 
 1. **Start the Expo Development Server**
    ```bash
    pnpm start
    ```
 
-2. **Launch the Application**
+2. **Open the App**
    - **Android Emulator / Device:** Press `a` in the terminal.  
    - **iOS Simulator / Device:** Press `i` in the terminal.  
-   - **Expo Go App:** Scan the QR code shown in the terminal to open on your device.  
+   - **Expo Go App:** Scan the QR code displayed in your terminal to launch on your mobile device.  
 
-Once launched, you can browse, track, and monitor live cryptocurrency data instantly.  
+Once the app is running, you can start exploring live crypto updates, viewing charts, and managing your personalized watchlist.
 
 ---
 
-## 🧰 **Technology Stack**
+## 🧰 **Tech Stack**
 
-| Tool / Library | Purpose |
-|----------------|----------|
-| **React Native** | Core framework for building cross-platform apps. |
+| Technology | Purpose |
+|-------------|----------|
+| **React Native** | Framework for building cross-platform mobile apps. |
 | **Expo** | Simplifies app development, testing, and deployment. |
-| **TypeScript** | Provides strong typing and cleaner code structure. |
-| **Expo Router** | Enables file-based navigation. |
-| **Axios** | Handles API requests and responses. |
-| **Gifted Charts** | Renders smooth and interactive crypto price charts. |
-| **Expo SecureStore** | Safely stores user favorites locally and securely. |
+| **TypeScript** | Adds type safety and improves code structure. |
+| **Expo Router** | Enables file-based routing and navigation. |
+| **Axios** | Manages API requests and data fetching. |
+| **Gifted Charts** | Provides smooth, interactive chart visualizations. |
+| **Expo SecureStore** | Securely saves user preferences and watchlist data locally. |
 
 ---
 
-## 📲 **Download & Demo**
+## 📲 **Releases & Demo**
 
 | Resource | Link |
 |-----------|------|
-| **📦 APK Release** | [Download APK](https://github.com/Promisead/mobile-krypto-tracker/releases) |
+| **📦 APK Download** | [Download Latest Release](https://github.com/Promisead/mobile-krypto-tracker/releases) |
 | **🎥 Demo Video** | *Coming Soon!* |
 
-> Watch a walkthrough of the app showcasing live crypto updates, chart interactions, and favorite coin management.  
-> You can also sideload the APK onto any Android device to try it out directly.
+> Experience real-time crypto tracking, interactive price charts, and personalized favorites in action.  
+> You can sideload the APK on any Android device to explore the app firsthand.
 
 ---
 
-## 👨‍💻 **Author**
+## 👨‍💻 **About the Developer**
 
 **Promise Champion**  
+Passionate about building clean, user-centric applications with modern technologies.
+
 - 🌐 GitHub: [Promisead](https://github.com/Promisead)  
 - 💼 LinkedIn: [Promise Champion](#)  
-- 🐦 Twitter: [@PromiseChampion](#) 
+- 🐦 Twitter: [@PromiseChampion](#)  
 
 ---
 
 ## ⚖️ **License**
 
-This project is licensed under the **MIT License** — free to use, modify, and distribute with attribution.  
+This project is licensed under the **MIT License**, allowing free use, modification, and distribution with proper attribution.  
 
 ---
 
-### 🏷️ **Tech Badges**
+### 🏷️ **Technology Badges**
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
